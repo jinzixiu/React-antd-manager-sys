@@ -1,0 +1,25 @@
+
+
+
+
+HashRouter: http://localhost:3000/#/admin/buttons
+BrowserRouter: http://localhost:3000/admin/buttons
+
+
+
+
+Router:
+    path , 我们匹配的 路由的属性
+    exact , 精准的匹配
+    component , 匹配之后的组建加载
+    render
+
+
+NavLink:
+
+Link:
+
+Switch:
+
+Redirect:
+
